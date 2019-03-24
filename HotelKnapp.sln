@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HotelKnapp", "\\vfiler1.lec-admin.dmu.ac.uk\Home4\P16184104\Documents\P16184104\ICT\FYP\HotelKnapp\HotelKnapp\", "{0FC21FE6-8169-4B43-846C-2E8D62ECCC55}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1988"
+		Debug.AspNetCompiler.PhysicalPath = "\\vfiler1.lec-admin.dmu.ac.uk\Home4\P16184104\Documents\P16184104\ICT\FYP\HotelKnapp\HotelKnapp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1988\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1988"
+		Release.AspNetCompiler.PhysicalPath = "\\vfiler1.lec-admin.dmu.ac.uk\Home4\P16184104\Documents\P16184104\ICT\FYP\HotelKnapp\HotelKnapp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1988\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1988"
+		SlnRelativePath = "\\vfiler1.lec-admin.dmu.ac.uk\Home4\P16184104\Documents\P16184104\ICT\FYP\HotelKnapp\HotelKnapp\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC21FE6-8169-4B43-846C-2E8D62ECCC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC21FE6-8169-4B43-846C-2E8D62ECCC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AFC317-CCB0-4023-9CB5-E377770CBF5B}
+	EndGlobalSection
+EndGlobal
